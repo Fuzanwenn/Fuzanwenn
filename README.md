@@ -42,7 +42,7 @@ Zanwen Fu is a resourceful and detail-oriented Software Engineer with strong tec
 ### 🏆 Highlights & Experience Snapshots
 - **Graduate Teaching Assistant @ Duke** (Aug 2025 - Present)
 - **Software Developer @ Binance** (Jul 2025 – Present)
-- **Software Engineer (Research) @ AutoCodeRover (SonarSource)** (Aug 2024 – May 2025)
+- **Software Engineer (Research) @ AutoCodeRover (Sonar)** (Aug 2024 – May 2025)
 - **Undergraduate Researcher (UROP) @ NUS, SoC** (Jan 2024 – May 2025)
 - **Quantum Computing Researcher @ CQT, NUS** (May 2024 – Dec 2024)
 - **Research Assistant @ NUS, SoC** (Feb 2024 – Nov 2024)

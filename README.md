@@ -15,7 +15,9 @@
 ---
 
 ### 👋 About
-Zanwen Fu is a resourceful and detail-oriented Software Engineer with strong technical expertise. He is passionate about applying **Agentic AI** to develop **agentic** solutions for diverse real-world applications. He also experienced in integrating AI and Large Language Models into the Software Development Life Cycle to drive the evolution of [Software Engineering 3.0](https://arxiv.org/pdf/2410.06107).
+Zanwen Fu is a resourceful and detail-oriented Software Engineer with strong technical expertise, who is currently pursuing a Master of Computer Science at Duke University. He is excel at applying Agentic AI to develop agentic solutions for diverse real-world applications. He also experienced in integrating AI and Large Language Models into the Software Development Life Cycle to drive the evolution of [Software Engineering 3.0](https://arxiv.org/pdf/2410.06107).
+
+He recently founded [Vynn AI] (https://vynnai.com/), an agentic financial analyst that evaluates stock prices and generates actionable financial insights.
 
 - 🎓 **Duke University** — M.S. in Computer Science (AI/ML) | [Zanwen Fu | Scholars@Duke](https://scholars.duke.edu/person/Zanwen.Fu)
 - 🎓 **NUS** — B.Comp. in Computer Science (Distinction) | [Certificate of Distinction in Software Engineering](https://credentials.nus.edu.sg/346bcd58-698f-436c-af79-cb9bcf198d08#acc.r9iEKF7h)
@@ -40,6 +42,7 @@ Zanwen Fu is a resourceful and detail-oriented Software Engineer with strong tec
 ---
 
 ### 🏆 Highlights & Experience Snapshots
+- **AI Developer @ Handshake** (Sep 2025 - Present)
 - **Graduate Teaching Assistant @ Duke University** (Aug 2025 - Present)
 - **Software Developer @ Binance** (Jul 2025 – Present)
 - **Software Engineer (Research) @ AutoCodeRover (Sonar)** (Aug 2024 – May 2025)

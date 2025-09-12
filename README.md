@@ -1,7 +1,7 @@
 <!-- Profile README for https://github.com/Fuzanwenn -->
 <h1 align="center">Zanwen Fu</h1>
 <p align="center">
-  <b>Software Engineer</b> — Agentic AI • AI Systems • Agentic Solution • SDLC • Big Data  
+  <b>Software Engineer</b> — Agentic AI • AI Systems • LLMs • SDLC • Big Data  
   <br/>
   M.S. Computer Science (AI/ML), Duke University
 </p>

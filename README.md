@@ -1,7 +1,7 @@
 <!-- Profile README for https://github.com/Fuzanwenn -->
 <h1 align="center">Zanwen Fu</h1>
 <p align="center">
-  <b>Software Engineer</b> — Agentic AI • AI Systems • LLMs • SDLC • Big Data  
+  <b>Software Engineer</b> — Agentic AI • LLMs • SDLC • Text Mining • Machine Learning  
   <br/>
   M.S. Computer Science (AI/ML), Duke University
 </p>
@@ -21,7 +21,7 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 
 - 🎓 **Duke University** — M.S. in Computer Science (AI/ML) | [Zanwen Fu | Scholars@Duke](https://scholars.duke.edu/person/Zanwen.Fu)
 - 🎓 **NUS** — B.Comp. in Computer Science (Distinction) | [Certificate of Distinction in Software Engineering](https://credentials.nus.edu.sg/346bcd58-698f-436c-af79-cb9bcf198d08#acc.r9iEKF7h)
-- 🧪 Skilled in **Agentic AI, AI Systems, Software Development Life Cycle, and Big Data**  
+- 🧪 Skilled in **Agentic AI, LLM, Software Development Life Cycle, Text Mining and Machine Learning**  
 
 ---
 
@@ -44,6 +44,7 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 ### 🏆 Highlights & Experience Snapshots
 - **AI Developer @ Handshake** (Sep 2025 - Present)
 - **Graduate Teaching Assistant @ Duke University** (Aug 2025 - Present)
+- **Founder @ Vynn AI** (July 2025 - Present)
 - **Software Developer @ Binance** (Jul 2025 – Present)
 - **Software Engineer (Research) @ AutoCodeRover (Sonar)** (Aug 2024 – May 2025)
 - **Undergraduate Researcher (UROP) @ NUS, SoC** (Jan 2024 – May 2025)
@@ -57,7 +58,7 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 ### 🧰 Core Skills
 - **Languages:** Python, Java, Kotlin, JavaScript/TypeScript, C#, C, R, SQL/NoSQL  
 - **AI/ML & Data:** Agentic AI, Large Language Models (LangChain, Prompt Engineering), SWE-bench, Text Mining, Data Pipelines  
-- **Backend & Systems:** RESTful APIs / FastAPI, Dockerized Microservices, AWS, CI/CD, .NET, Multithreading & Concurrency, Git/GitHub  
+- **Backend & Systems:** RESTful APIs / FastAPI, Containerized Microservices, AWS, CI/CD, .NET, Multithreading & Concurrency, Git/GitHub  
 - **Testing & QA:** API Testing (Postman), Web Automation (Selenium), Load/Stress Testing (JMeter), Regression & Smoke Testing, End-to-End Test Automation  
 
 ---

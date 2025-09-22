@@ -27,6 +27,11 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 
 ### 🚀 Selected Work
 
+- **Vynn AI** — *Agentic financial analyst*
+  - **Founder of Vynn AI**
+  - Built and deployed an agentic solution following Model Context Protocol (MCP) for financial analysis and portfolio management, integrating multi-agent LLM reasoning with Agent-to-Agent, and autonomous tool-use for Self-RAG to deliver analytical results
+  - Productionized full-stack system on Hetzner Cloud, containerizing Python/React services with Docker & Caddy, implementing persistent volumes and databases, CI/CD, and real-time log streaming for scalable, reliable deployment
+
 - **AutoCodeRover (SonarSource)** — *IDE-integrated autonomous program repair*  
   - JetBrains plugin in Kotlin, integrated with SonarQube for real-time quality checks  
   - Designed Patch Alignment with AST (GumTree)  
@@ -37,7 +42,7 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 - **Undergraduate Research Opportunity Program (NUS SoC)** — *Multi-agent LLM framework for systematic reviews*  
   - Achieved **99.95% NPV**, 12% FP, 2% FN in large-scale text mining  
   - Improved throughput by **99.9%**  
-  - Published in **NEJM AI (2025)**  
+  - Published in **NEJM AI (2025)**
 
 ---
 

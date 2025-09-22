@@ -70,8 +70,7 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 
 ### 📫 Contact
 - Email: **zanwen.fu@duke.edu**  
-- LinkedIn: **/in/zanwenfu**  
-- GitHub: **@Fuzanwenn**
+- LinkedIn: [**/in/zanwenfu**](https://www.linkedin.com/in/zanwenfu/)
 
 ---
 

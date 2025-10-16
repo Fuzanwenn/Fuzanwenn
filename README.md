@@ -15,9 +15,9 @@
 ---
 
 ### 👋 About
-Zanwen Fu is a resourceful and detail-oriented Software Engineer with strong technical expertise, who is currently pursuing a Master of Computer Science at Duke University. He is excel at applying Agentic AI to develop agentic solutions for diverse real-world applications. He also experienced in integrating AI and Large Language Models into the Software Development Life Cycle to drive the evolution of [Software Engineering 3.0](https://arxiv.org/pdf/2410.06107).
+Zanwen Fu is a resourceful and detail-oriented Software Engineer with strong technical expertise, currently pursuing a Master of Computer Science at Duke University. He excels at applying agentic AI to develop agentic solutions for diverse real-world applications. He also has experience integrating AI and Large Language Models into the Software Development Life Cycle to drive the evolution of [Software Engineering 3.0](https://arxiv.org/pdf/2410.06107).
 
-He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst that evaluates stock prices and generates actionable financial insights.
+He is the founder of [Vynn AI](https://vynnai.com/), an agentic financial analyst that evaluates stock prices and generates actionable financial insights. Please feel free to reach out! .
 
 - 🎓 **Duke University** — M.S. in Computer Science (AI/ML) | [Zanwen Fu | Scholars@Duke](https://scholars.duke.edu/person/Zanwen.Fu)
 - 🎓 **NUS** — B.Comp. in Computer Science (Distinction) | [Certificate of Distinction in Software Engineering](https://credentials.nus.edu.sg/346bcd58-698f-436c-af79-cb9bcf198d08#acc.r9iEKF7h)
@@ -47,15 +47,14 @@ He recently founded [Vynn AI](https://vynnai.com/), an agentic financial analyst
 ---
 
 ### 🏆 Highlights & Experience Snapshots
-- **AI Developer @ Handshake** (Sep 2025 - Present)
 - **Graduate Teaching Assistant @ Duke University** (Aug 2025 - Present)
 - **Founder @ Vynn AI** (July 2025 - Present)
-- **Software Developer @ Binance** (Jul 2025 – Present)
+- **Software Engineer @ Binance** (Jul 2025 – Present)
 - **Software Engineer (Research) @ AutoCodeRover (Sonar)** (Aug 2024 – May 2025)
 - **Undergraduate Researcher (UROP) @ NUS, SoC** (Jan 2024 – May 2025)
 - **Quantum Software Engineer @ CQT, NUS** (May 2024 – Dec 2024)
 - **Research Assistant @ NUS, SoC** (Feb 2024 – Nov 2024)
-- **Technical Support Specialist @ NUS, NUSRI** (Mar 2024 – Oct 2024)
+- **Data Engineer @ NUS, NUSRI** (Mar 2024 – Oct 2024)
 - **Full-Stack Software Engineer @ ST Engineering** (May 2023 – Aug 2023)
 
 ---

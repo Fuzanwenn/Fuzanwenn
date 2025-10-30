@@ -32,7 +32,7 @@ He is the founder of [Vynn AI](https://vynnai.com/), an agentic financial analys
   - Built and deployed an agentic solution following Model Context Protocol (MCP) for financial analysis and portfolio management, integrating multi-agent LLM reasoning with Agent-to-Agent, and autonomous tool-use for Self-RAG to deliver analytical results
   - Productionized full-stack system on Hetzner Cloud, containerizing Python/React services with Docker & Caddy, implementing persistent volumes and databases, CI/CD, and real-time log streaming for scalable, reliable deployment
 
-- **AutoCodeRover (SonarSource)** — *IDE-integrated autonomous program repair*  
+- [**AutoCodeRover (SonarSource)**](https://www.sonarsource.com/company/press-releases/sonar-acquires-autocoderover-to-supercharge-developers-with-ai-agents/) — *IDE-integrated autonomous program repair*  
   - JetBrains plugin in Kotlin, integrated with SonarQube for real-time quality checks  
   - Designed Patch Alignment with AST (GumTree)  
   - Introduced Self-Repair Agent with continuous feedback loops  
@@ -40,16 +40,15 @@ He is the founder of [Vynn AI](https://vynnai.com/), an agentic financial analys
   - Reduced manual debugging effort by ~**40%**
 
 - **Undergraduate Research Opportunity Program (NUS SoC)** — *Multi-agent LLM framework for systematic reviews*  
-  - Achieved **99.95% NPV**, 12% FP, 2% FN in large-scale text mining  
-  - Improved throughput by **99.9%**  
-  - Published in **NEJM AI (2025)**
+  - Achieved **99.95% NPV, 12% FP, 2% FN** in large-scale text mining  
+  - Improved throughput by **99.9%**
 
 ---
 
 ### 🏆 Highlights & Experience Snapshots
 - **Graduate Teaching Assistant @ Duke University** (Aug 2025 - Present)
-- **Founder @ Vynn AI** (July 2025 - Present)
-- **Software Engineer @ Binance** (Jul 2025 – Present)
+- **Founder @ VYNN AI** (July 2025 - Present)
+- **Software Engineer @ Binance** (Jul 2025 – Oct 2025)
 - **Software Engineer (Research) @ AutoCodeRover (Sonar)** (Aug 2024 – May 2025)
 - **Undergraduate Researcher (UROP) @ NUS, SoC** (Jan 2024 – May 2025)
 - **Quantum Software Engineer @ CQT, NUS** (May 2024 – Dec 2024)

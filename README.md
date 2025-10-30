@@ -27,7 +27,7 @@ He is the founder of [Vynn AI](https://vynnai.com/), an agentic financial analys
 
 ### 🚀 Selected Work
 
-- **Vynn AI** — *Agentic financial analyst*
+- [**Vynn AI**](https://vynnai.com/) — *Agentic financial analyst*
   - **Founder of Vynn AI**
   - Built and deployed an agentic solution following Model Context Protocol (MCP) for financial analysis and portfolio management, integrating multi-agent LLM reasoning with Agent-to-Agent, and autonomous tool-use for Self-RAG to deliver analytical results
   - Productionized full-stack system on Hetzner Cloud, containerizing Python/React services with Docker & Caddy, implementing persistent volumes and databases, CI/CD, and real-time log streaming for scalable, reliable deployment

@@ -72,7 +72,7 @@ I am the **sole founder and engineer of VYNN AI**, an agentic financial analyst 
 - **Graduate Teaching Assistant**, Duke University — Software Delivery & Software Development  
 - **Founder & Software Engineer**, VYNN AI  
 - **Software Engineer**, AutoCodeRover (acquired by SonarSource)  
-- **Software Engineer (SDET)**, Binance — large-scale API testing and reliability  
+- **Software Engineer**, Binance — large-scale API testing and reliability  
 - **Quantum Software Engineer**, Center for Quantum Technologies (NUS)  
 - **Full-Stack Software Engineer**, ST Engineering — real-time systems and CI/CD  
 

@@ -1,4 +1,4 @@
-<!-- Profile README for https://github.com/Fuzanwenn -->
+<!-- Profile README for https://github.com/zanwenfu -->
 
 <h1 align="center">Zanwen (Ryan) Fu</h1>
 
@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/zanwenfu">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@zanwenfu-blue?logo=linkedin">
   </a>
-  <a href="https://github.com/Fuzanwenn">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Fuzanwenn-181717?logo=github&logoColor=white">
+  <a href="https://github.com/zanwenfu">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-zanwenfu-181717?logo=github&logoColor=white">
   </a>
 </p>
 
